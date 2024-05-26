@@ -6,6 +6,7 @@ This is the first part of the AirBnB clone project where we worked on the backen
 
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python
 
+
 ## Description of the command interpreter:
 The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
 
