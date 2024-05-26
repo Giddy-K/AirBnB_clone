@@ -37,6 +37,7 @@ git clone https://github.com/Giddy-K/AirBnB_clone.git
 ```
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
+
 > /console.py : The main executable of the project, the command interpreter.
 >
 > models/engine/file_storage.py: Class that serializes instances to a JSON file and deserializes JSON file to instances
